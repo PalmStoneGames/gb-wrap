@@ -7,6 +7,13 @@ It works in the following way:
 
 The chosen tool will be called, but the GOPATH environment variable will be set to the correct values for the current gb project
 
+Install
+=====
+```
+go get code.palmstonegames.com/gb-wrap
+```
+gb-wrap is go get-table. The above is all that's needed to get this plugin.
+
 Contribute
 ==========
 
