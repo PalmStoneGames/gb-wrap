@@ -12,6 +12,16 @@ Contribute
 
 Contributions and suggestions for improvements are very welcome.
 
+Install
+=====
+
+gb-wrap is go get-table. The following is all that's needed to install this plugin.
+
+```
+go get github.com/PalmStoneGames/gb-wrap
+```
+
+
 Legal
 =======
 
